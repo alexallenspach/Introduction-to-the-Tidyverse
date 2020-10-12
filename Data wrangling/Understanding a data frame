@@ -1,0 +1,14 @@
+Now that you've loaded the gapminder dataset, you can start examining and understanding it.
+
+We've already loaded the gapminder and dplyr packages. Type gapminder in your R terminal, to the right, to display the object.
+
+How many observations (rows) are in the dataset?
+
+Possible Answers
+
+a)  1704
+b)  6
+c)  1694
+d)  1952
+
+ANSWER: A
