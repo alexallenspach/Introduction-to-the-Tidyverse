@@ -1,0 +1,1 @@
+Often a better way to understand and present data as a graph. In this chapter, you'll learn the essential skills of data visualization using the ggplot2 package, and you'll see how the dplyr and ggplot2 packages work closely together to create informative graphs. 
