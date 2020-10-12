@@ -1,0 +1,1 @@
+In this chapter, you'll learn how to create line plots, bar plots, histograms, and boxplots. You'll see how each plot requires different methods of data manipulation and preparation, and you’ll understand how each of these plot types plays a different role in data analysis. 
